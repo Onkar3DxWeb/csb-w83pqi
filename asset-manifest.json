@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://onkarhirgude18.github.io/csb-w83pqi/static/css/main.32bfdc7e.chunk.css",
+    "main.js": "https://onkarhirgude18.github.io/csb-w83pqi/static/js/main.763d4203.chunk.js",
+    "main.js.map": "https://onkarhirgude18.github.io/csb-w83pqi/static/js/main.763d4203.chunk.js.map",
+    "runtime-main.js": "https://onkarhirgude18.github.io/csb-w83pqi/static/js/runtime-main.e6e14cbb.js",
+    "runtime-main.js.map": "https://onkarhirgude18.github.io/csb-w83pqi/static/js/runtime-main.e6e14cbb.js.map",
+    "static/js/2.a8183176.chunk.js": "https://onkarhirgude18.github.io/csb-w83pqi/static/js/2.a8183176.chunk.js",
+    "static/js/2.a8183176.chunk.js.map": "https://onkarhirgude18.github.io/csb-w83pqi/static/js/2.a8183176.chunk.js.map",
+    "index.html": "https://onkarhirgude18.github.io/csb-w83pqi/index.html",
+    "static/css/main.32bfdc7e.chunk.css.map": "https://onkarhirgude18.github.io/csb-w83pqi/static/css/main.32bfdc7e.chunk.css.map",
+    "static/js/2.a8183176.chunk.js.LICENSE.txt": "https://onkarhirgude18.github.io/csb-w83pqi/static/js/2.a8183176.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e6e14cbb.js",
+    "static/js/2.a8183176.chunk.js",
+    "static/css/main.32bfdc7e.chunk.css",
+    "static/js/main.763d4203.chunk.js"
+  ]
+}
